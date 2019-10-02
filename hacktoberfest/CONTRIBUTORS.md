@@ -1,3 +1,8 @@
+### Name: Karen Garcia
+- Place: Denver, Colorado
+- Bio: Enjoying the journey of coding through JavaScript and React, learning from Google University.
+- GitHub: [Karen Garcia](http://github.com/saykaren)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
